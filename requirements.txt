@@ -4,6 +4,7 @@ openai
 faiss-cpu
 tiktoken
 PyPDF2
+pypdf
 pytesseract
 pillow
 python-dotenv
